@@ -1,4 +1,4 @@
-PHP 7.0 CLI with pthreads
+PHP 7.1 CLI with pthreads
 =====================
 [![Layer Size](https://badge.imagelayers.io/wyrihaximus/php71-pthreads:latest.svg)](https://imagelayers.io/?images=wyrihaximus/php71-pthreads:latest) [![Docker Stars](https://img.shields.io/docker/stars/wyrihaximus/php71-pthreads.svg?style=flat-square)](https://hub.docker.com/r/wyrihaximus/php71-pthreads/) [![Docker Pulls](https://img.shields.io/docker/pulls/wyrihaximus/php71-pthreads.svg?style=flat-square)](https://hub.docker.com/r/wyrihaximus/php71-pthreads/)
 
